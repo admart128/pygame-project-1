@@ -17,7 +17,7 @@ class Sprite(pygame.sprite.Sprite):
         self.rect.x = 10
         self.rect.y = 10
 
-player = Sprite("/home/adam/repos/pygame-project-1/player.png")
+player = Sprite("/home/adam/repos/pygame-project-1/Player-0001.png")
 
 def show_time():
     screen.blit(player.image, (player.rect.x, player.rect.y))

@@ -1,1 +1,3 @@
-# pygame-project-1
+🔰 Practice
+
+Early Python practice.
